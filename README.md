@@ -12,7 +12,7 @@ $ cat /etc/profile/shan793.ascii
 
  _  __    _    _   _   _   _   _
 
- <img src="https://readme-typing-svg.demolab.com?font=Big+Money-ne&size=30&duration=1&pause=1000&color=1E90FF&center=true&vCenter=true&width=500&lines=KASHAN" alt="KASHAN" />
+<img src="https://readme-typing-svg.demolab.com?font=Big+Money-ne&size=35&duration=1&pause=1000&color=1E90FF&center=true&vCenter=true&width=500&lines=KASHAN" alt="KASHAN" />
 
  $ whoami --short
  full stack developer · end-to-end · cloud native
