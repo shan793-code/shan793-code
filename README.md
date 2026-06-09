@@ -122,5 +122,5 @@ shan793@dev-cluster:~$ exit
 ```
 
 <p align="center">
-  <em>built with caffeine, clean code, and a deep love for building things that work</em>
+  <img src="https://komarev.com/ghpvc/?username=shan793-code&color=ff6b81&style=flat-square" alt="profile views" />
 </p>
