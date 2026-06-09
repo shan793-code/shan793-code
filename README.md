@@ -54,10 +54,9 @@ shan793  5.2026  #fullstack-dev  SMP  x86_64  GNU/Linux   [saudi-arabia → clou
 
 ## 🖥️ htop
 
-```bash
 shan793@dev-cluster:~$ htop --loop
 
-<img src="https://raw.githubusercontent.com/shan793-code/shan793-code/main/dashboard.gif" alt="live dashboard" width="100%" />
+<img src="dashboard.gif" alt="live dashboard" width="100%" />
 
 $ tail -f ~/career.log
 uptime: ∞ · pid 1 · ready for work
