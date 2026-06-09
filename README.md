@@ -12,9 +12,10 @@ $ cat /etc/profile/shan793.ascii
 
  _  __    _    _   _   _   _   _
 
-<p align="center"><span style="color:#1E90FF; font-family:monospace; font-size:40px; font-style:italic; letter-spacing:5px;"><b>K A S H A N</b></span></p>
+<img src="https://raw.githubusercontent.com/shan793-code/shan793-code/main/kashan_neon_text_v2.svg" alt="KASHAN" width="500" />
 
  $ whoami --short
+ 
  full stack developer · end-to-end · cloud native
 
  ```
