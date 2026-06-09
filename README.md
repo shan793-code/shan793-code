@@ -4,7 +4,7 @@
 
 🔴 🟡 🟢
 
-<span style="color: blue;">$</span> login
+<p color="blue;">$</p> login
 
 Welcome to dev-cluster · last login: just now
 
