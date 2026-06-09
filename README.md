@@ -56,7 +56,11 @@ shan793  5.2026  #fullstack-dev  SMP  x86_64  GNU/Linux   [saudi-arabia → clou
 
 <img src="dashboard_no_header.gif" alt="live dashboard" width="100%" />
 
+---
+
 ## 📊 stats
+
+```bash
 shan793@dev-cluster:~$ git log --author='shan793' --stat
 
 <p align="center">
@@ -66,3 +70,4 @@ shan793@dev-cluster:~$ git log --author='shan793' --stat
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shan793-code&theme=radical&hide_border=true&background=0d1117&stroke=ff6b81&ring=ff6b81&fire=ff6b81&currStreakNum=ff6b81&sideNums=ff6b81&currStreakLabel=ff6b81&sideLabels=ff6b81&dates=c9d1d9" />
 </p>
+```
