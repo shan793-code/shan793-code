@@ -97,3 +97,35 @@ shan793@dev-cluster:~$ git log --author='shan793' --stat
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shan793-code&theme=radical&hide_border=true&background=0d1117&stroke=ff6b81&ring=ff6b81&fire=ff6b81&currStreakNum=ff6b81&sideNums=ff6b81&currStreakLabel=ff6b81&sideLabels=ff6b81&dates=c9d1d9" />
 </p>
 
+---
+
+## 📡 connect
+
+```bash
+shan793@dev-cluster:~$ ./connect.sh --interactive
+```
+
+<p align="center">
+  <a href="mailto:shan793.code@gmail.com">
+    <img src="https://img.shields.io/badge/📧_PARACHAK49@GMAIL.COM-ff6b81?style=for-the-badge&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/shan793-code">
+    <img src="https://img.shields.io/badge/🔗_linkedin.com/in/k-paracha-ff6b81?style=for-the-badge&logoColor=white" />
+  </a>
+  <a href="https://github.com/shan793-code">
+    <img src="https://img.shields.io/badge/⚡_GITHUB/SHAN793-ff6b81?style=for-the-badge&logoColor=white" />
+  </a>
+  <a href="https://github.com/shan793-code">
+    <img src="https://img.shields.io/badge/👁️_VISITORS-ff6b81?style=for-the-badge&logoColor=white&labelColor=555555" />
+  </a>
+</p>
+
+```bash
+shan793@dev-cluster:~$ exit
+> connection closed. logs flushed. commits pushed.
+> see you in the next deployment. 🚀
+```
+
+<p align="center">
+  <em>built with caffeine, clean code, and a deep love for building things that work</em>
+</p>
