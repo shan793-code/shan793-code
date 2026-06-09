@@ -19,7 +19,7 @@ $ cat /etc/profile/shan793.ascii
  $ whoami --short
 
  
-<span style="color:blue">full stack developer · end-to-end · cloud native </span>
+full stack developer · end-to-end · cloud native
  
 
 
@@ -31,3 +31,16 @@ $ cat /etc/profile/shan793.ascii
   <a href="#-projects">🛠️ <img src="https://img.shields.io/badge/projects-ffa502?style=for-the-badge&logoColor=white" align="center" /></a>
   <a href="#-connect">📡 <img src="https://img.shields.io/badge/connect-ff6b81?style=for-the-badge&logoColor=white" align="center" /></a>
 </p>
+
+
+---
+
+## 🐚 whoami
+
+```bash
+shan793@dev-cluster:~$ whoami
+shan793 · full-stack developer
+> building frontend · architecting backend · deploying to cloud
+
+shan793@dev-cluster:~$ uname -a
+shan793  5.2026  #fullstack-dev  SMP  x86_64  GNU/Linux   [saudi-arabia → cloud → global]
