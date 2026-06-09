@@ -112,9 +112,7 @@ shan793@dev-cluster:~$ ./connect.sh --interactive
   &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/shan793-code">⚡ GITHUB/SHAN793</a>
   &nbsp;&nbsp;&nbsp;
-  👁️ <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shan793-code&color=ff6b81&style=flat-square" alt="profile views" />
-</p>
+  👁️ <img src="https://komarev.com/ghpvc/?username=shan793-code&color=ff6b81&style=flat-square" alt="profile views" />
 </p>
 
 ```bash
@@ -122,7 +120,3 @@ shan793@dev-cluster:~$ exit
 > connection closed. logs flushed. commits pushed.
 > See you in the next deployment. 🚀
 ```
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shan793-code&color=ff6b81&style=flat-square" alt="profile views" />
-</p>
