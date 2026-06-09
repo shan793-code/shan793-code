@@ -21,3 +21,20 @@ $ cat /etc/profile/shan793.ascii
  full stack developer · end-to-end · cloud native
 
  ```
+<p align="center">
+  <a href="#-whoami">
+    <img src="https://img.shields.io/badge/🐚_whoami-ff4757?style=for-the-badge&logoColor=white" />
+  </a>
+  <a href="#-stack">
+    <img src="https://img.shields.io/badge/📦_stack-2ed573?style=for-the-badge&logoColor=white" />
+  </a>
+  <a href="#-stats">
+    <img src="https://img.shields.io/badge/📊_stats-1e90ff?style=for-the-badge&logoColor=white" />
+  </a>
+  <a href="#-projects">
+    <img src="https://img.shields.io/badge/🛠️_projects-ffa502?style=for-the-badge&logoColor=white" />
+  </a>
+  <a href="#-connect">
+    <img src="https://img.shields.io/badge/📡_connect-ff6b81?style=for-the-badge&logoColor=white" />
+  </a>
+</p>
