@@ -19,7 +19,7 @@ $ cat /etc/profile/shan793.ascii
  $ whoami --short
 
  
-+ full stack developer · end-to-end · cloud native
+# full stack developer · end-to-end · cloud native
 
 <p align="center">
  <p align="center">
