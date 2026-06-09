@@ -60,7 +60,6 @@ shan793  5.2026  #fullstack-dev  SMP  x86_64  GNU/Linux   [saudi-arabia → clou
 
 ## 📊 stats
 
-```bash
 shan793@dev-cluster:~$ git log --author='shan793' --stat
 
 <p align="center">
