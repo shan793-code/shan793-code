@@ -106,10 +106,10 @@ shan793@dev-cluster:~$ ./connect.sh --interactive
 ```
 
 <p align="center">
-  📧 <a href="mailto:parachak49@gmail.com"><img src="https://img.shields.io/badge/PARACHAK49@GMAIL.COM-ff6b81?style=for-the-badge&logoColor=white" /></a>
-  🔗 <a href="https://linkedin.com/in/k-paracha"><img src="https://img.shields.io/badge/LINKEDIN.COM/IN/K.PARACHA-ff6b81?style=for-the-badge&logoColor=white" /></a>
-  ⚡ <a href="https://github.com/shan793-code"><img src="https://img.shields.io/badge/GITHUB/SHAN793-ff6b81?style=for-the-badge&logoColor=white" /></a>
-  👁️ <a href="https://github.com/shan793-code"><img src="https://img.shields.io/badge/VISITORS-ff6b81?style=for-the-badge&logoColor=white&labelColor=555555" /></a>
+  <a href="mailto:parachak49@gmail.com"><sub>📧</sub> <img src="https://img.shields.io/badge/PARACHAK49@GMAIL.COM-ff6b81?style=for-the-badge&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/k-paracha"><sub>🔗</sub> <img src="https://img.shields.io/badge/LINKEDIN.COM/IN/K.PARACHA-ff6b81?style=for-the-badge&logoColor=white" /></a>
+  <a href="https://github.com/shan793-code"><sub>⚡</sub> <img src="https://img.shields.io/badge/GITHUB/SHAN793-ff6b81?style=for-the-badge&logoColor=white" /></a>
+  <a href="https://github.com/shan793-code"><sub>👁️</sub> <img src="https://img.shields.io/badge/VISITORS-ff6b81?style=for-the-badge&logoColor=white&labelColor=555555" /></a>
 </p>
 
 ```bash
