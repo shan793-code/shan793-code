@@ -17,7 +17,7 @@ $ cat /etc/profile/shan793.ascii
 </a>
 
  $ whoami --short
-
+<p color="blue">full stack developer · end-to-end · cloud native </p>
  
 
 
