@@ -37,6 +37,8 @@ full stack developer · end-to-end · cloud native
 
 ---
 
+---
+
 ## 🐚 whoami
 
 ```bash
@@ -46,30 +48,31 @@ shan793 · full-stack developer
 
 shan793@dev-cluster:~$ uname -a
 shan793  5.2026  #fullstack-dev  SMP  x86_64  GNU/Linux   [saudi-arabia → cloud → global]
+
+```
 ---
 
 ## 🖥️ htop
 
 ```bash
 shan793@dev-cluster:~$ htop --loop
-
-+ ┌─────────────────────────────────────────────────────────────────────────────┐
-+ │  CPU: 8 cores @ 3.2GHz    Memory: 12.4 GB / 16 GB    Uptime: 2y 4m 12d    │
-+ │                                                                             │
-! │  [████████████████████░░░░░░░░░░░░]  React      ·  78%  ·  building UI     │
-! │  [█████████████████░░░░░░░░░░░░░░░]  Node.js    ·  65%  ·  API server     │
-! │  [██████████████░░░░░░░░░░░░░░░░░░]  Python     ·  52%  ·  data pipeline  │
-! │  [████████████░░░░░░░░░░░░░░░░░░░░]  Docker     ·  45%  ·  containers     │
-+ │                                                                             │
-+ │  Processes: 4 active · 1 background                                         │
-+ │                                                                             │
-+ │  PID   NAME                STATUS        MEM        PROGRESS                 │
-+ │  1337  frontend_dev.py     [coding]      3072 MiB   ████████████░  epoch 247 │
-+ │  2048  backend_api.js      [deploying]   2048 MiB   █████████░░░░  healthy ✓ │
-+ │  4096  database_optimize   [learning]    2048 MiB   ██████░░░░░░░  studying │
-+ │  8192  open_to_collab      [available]   2048 MiB   █████████████  always-on │
-+ │                                                                             │
-+ └─────────────────────────────────────────────────────────────────────────────┘
+┌─────────────────────────────────────────────────────────────────────────────┐
+│  CPU: 24 cores @ 3.2GHz    Memory: 12.4 GB / 32 GB    Uptime: 0y 6m 12d    │
+│                                                                             │
+│  [████████████████████░░░░░░░░░░░░]  React      ·  78%  ·  building UI     │
+│  [█████████████████░░░░░░░░░░░░░░░]  Node.js    ·  65%  ·  API server     │
+│  [██████████████░░░░░░░░░░░░░░░░]  JavaScript ·  52%  ·  data pipeline  │
+│  [████████████░░░░░░░░░░░░░░░░░░]  Docker     ·  45%  ·  containers     │
+│                                                                             │
+│  Processes: 4 active · 1 background                                         │
+│                                                                             │
+│  PID   NAME                STATUS        MEM        PROGRESS                 │
+│  1337  frontend_dev.js     [coding]      3072 MiB   ████████████░  epoch 247 │
+│  2048  backend_api.js      [deploying]   2048 MiB   █████████░░░░  healthy ✓ │
+│  4096  database_optimize   [learning]    2048 MiB   ██████░░░░░░░  studying │
+│  8192  open_to_collab      [available]   2048 MiB   █████████████  always-on │
+│                                                                             │
+└─────────────────────────────────────────────────────────────────────────────┘
 
 $ tail -f ~/career.log
 uptime: ∞ · pid 1 · ready for work
