@@ -54,5 +54,5 @@ shan793  5.2026  #fullstack-dev  SMP  x86_64  GNU/Linux   [saudi-arabia → clou
 
 ## 🖥️ htop
 
-<img src="dashboard.gif" alt="live dashboard" width="100%" />
+<img src="dashboard_no_header.gif" alt="live dashboard" width="100%" />
 
