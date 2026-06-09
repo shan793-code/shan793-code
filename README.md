@@ -6,7 +6,7 @@
 
 $ login
 
-Welcome to dev-cluster · last login: just now
+<sub>Welcome to dev-cluster · last login: just now</sub>
 
 $ cat /etc/profile/shan793.ascii
 
@@ -17,6 +17,8 @@ $ cat /etc/profile/shan793.ascii
 </a>
 
  $ whoami --short
+
+ 
 <span style="color:blue">full stack developer · end-to-end · cloud native </span>
  
 
