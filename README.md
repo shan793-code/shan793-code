@@ -19,7 +19,7 @@ $ cat /etc/profile/shan793.ascii
  $ whoami --short
 
  
-# full stack developer · end-to-end · cloud native
+<img src="https://raw.githubusercontent.com/shan793-code/shan793-code/main/tagline.svg" alt="tagline" />
 
 <p align="center">
  <p align="center">
