@@ -106,13 +106,13 @@ shan793@dev-cluster:~$ ./connect.sh --interactive
 ```
 
 <p align="center">
-  <span>📧 PARACHAK49@GMAIL.COM</span>
+  <a href="mailto:parachak49@gmail.com">📧 PARACHAK49@GMAIL.COM</a>
   &nbsp;&nbsp;&nbsp;
-  <span>🔗 LINKEDIN.COM/IN/K.PARACHA</span>
+  <a href="https://linkedin.com/in/k-paracha">🔗 LINKEDIN.COM/IN/K.PARACHA</a>
   &nbsp;&nbsp;&nbsp;
-  <span>⚡ GITHUB/SHAN793</span>
+  <a href="https://github.com/shan793-code">⚡ GITHUB/SHAN793</a>
   &nbsp;&nbsp;&nbsp;
-  <span>👁️ VISITORS</span>
+  👁️ VISITORS
 </p>
 
 ```bash
