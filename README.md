@@ -54,34 +54,6 @@ shan793  5.2026  #fullstack-dev  SMP  x86_64  GNU/Linux   [saudi-arabia → clou
 
 ## 📦 stack
 
-```bash
-shan793@dev-cluster:~$ tree -L 2 ~/.shan793/stack
-
-~/.shan793/stack/
-├── frontend/
-│   ├── core         →  HTML5 · CSS3 · JavaScript (ES6+)
-│   ├── framework    →  React · Next.js · TypeScript
-│   ├── styling      →  Tailwind CSS · Bootstrap · SASS
-│   └── tools        →  Vite · Webpack · Figma
-├── backend/
-│   ├── runtime      →  Node.js · Express.js · NestJS
-│   ├── language     →  JavaScript · TypeScript · Node.js
-│   └── api          →  REST · GraphQL · WebSocket
-├── database/
-│   ├── sql          →  PostgreSQL · MySQL · SQLite
-│   ├── nosql        →  MongoDB · Redis · Firebase
-│   └── orm          →  Prisma · Sequelize · Mongoose
-├── devops/
-│   ├── container    →  Docker · Docker Compose
-│   ├── cloud        →  AWS · GCP · DigitalOcean
-│   ├── cicd         →  GitHub Actions · GitLab CI
-│   └── server       →  Nginx · Linux · Bash
-└── tools/
-    ├── version      →  Git · GitHub · GitLab
-    ├── testing      →  Jest · PyTest · Postman
-    ├── docs         →  Markdown · Swagger · Notion
-    └── editor       →  VS Code · Cursor · Vim
----
 
 ## 🖥️ htop
 
