@@ -54,8 +54,6 @@ shan793  5.2026  #fullstack-dev  SMP  x86_64  GNU/Linux   [saudi-arabia → clou
 
 ## 🖥️ htop
 
-shan793@dev-cluster:~$ htop --loop
-
 <img src="dashboard.gif" alt="live dashboard" width="100%" />
 
 $ tail -f ~/career.log
