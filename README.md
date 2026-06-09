@@ -13,7 +13,7 @@ $ cat /etc/profile/shan793.ascii
  _  __    _    _   _   _   _   _
 
 <a href="https://github.com/shan793-code">
-  <img src="https://raw.githubusercontent.com/shan793-code/shan793-code/main/kashan_neon_text_v2.svg" alt="KASHAN" width="500" />
+  <img src="https://raw.githubusercontent.com/shan793-code/shan793-code/main/kashan_transparent.png" alt="KASHAN" width="500" />
 </a>
 
  $ whoami --short
