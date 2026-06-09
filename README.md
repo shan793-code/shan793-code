@@ -60,8 +60,9 @@ shan793  5.2026  #fullstack-dev  SMP  x86_64  GNU/Linux   [saudi-arabia → clou
 
 ## 📊 stats
 
+```bash
 shan793@dev-cluster:~$ git log --author='shan793' --stat
-
+```
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shan793-code&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6b81&icon_color=ff6b81&text_color=c9d1d9&ring=ff6b81" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shan793-code&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6b81&text_color=c9d1d9" height="165" />
