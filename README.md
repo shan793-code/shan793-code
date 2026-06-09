@@ -112,7 +112,7 @@ shan793@dev-cluster:~$ ./connect.sh --interactive
   &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/shan793-code">⚡ GITHUB/SHAN793</a>
   &nbsp;&nbsp;&nbsp;
-  👁️ <img src="https://komarev.com/ghpvc/?username=shan793-code&color=ff6b81&style=flat-square" alt="profile views" />
+ <img src="https://komarev.com/ghpvc/?username=shan793-code&color=ff6b81&style=flat-square" alt="👁️Visitors" />
 </p>
 
 ```bash
