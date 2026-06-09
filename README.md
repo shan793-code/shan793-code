@@ -6,7 +6,7 @@
 
 $ login
 
-<sub>Welcome to dev-cluster · last login: just now</sub>
+<sub style="color:gray">Welcome to dev-cluster · last login: just now</sub>
 
 $ cat /etc/profile/shan793.ascii
 
